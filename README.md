@@ -1,0 +1,1 @@
+Repositorio con el código y análisis de mi tesis de licenciatura en Computación. Aplica minería de datos a procesos catalíticos en reactores, con limpieza de datos, visualización, selección de variables y modelos de clasificación en Python.
